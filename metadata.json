@@ -1,0 +1,6 @@
+{
+  "name": "OwemYield Designing and Printing",
+  "description": "Zimbabwe's premier corporate apparel, large format signage, promotional stationery, and awards printing partner.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
